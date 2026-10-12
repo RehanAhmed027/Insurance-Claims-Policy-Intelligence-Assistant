@@ -1,0 +1,31 @@
+# Data handling and SQL
+pandas
+sqlalchemy
+
+# API and UI
+fastapi
+uvicorn
+streamlit
+requests
+
+# LangChain and LangGraph
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langgraph
+
+# ChromaDB integration
+chromadb
+langchain-chroma
+
+# Embeddings, reranking and keyword search
+sentence-transformers
+rank-bm25
+
+# Environment settings and tests
+python-dotenv
+pytest
+
+langchain-openai
+mcp>=1.12,<2

@@ -1,0 +1,30 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+.venv/
+.venv-1/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local databases and vector indexes
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+chroma_db/
+chroma_store/
+vector_store/
+
+# Editor and logs
+.vscode/
+*.log
+
+# Large training datasets
+data/csv_files/*.csv
